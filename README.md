@@ -1,4 +1,4 @@
-# Mya
+# Mya: Short_ID: "The Shape of AI to come" or Long_ID: "The Mathematical Certainties of 'Irresponsible' AI Research" Project Overview (Titles inspired by albums by Refused and Better Lovers)
 
 A private, fully local AI companion with a 3D avatar, a voice, a memory and a sense of her own "body".
 Built for the *Tar Pits of Eon* world.
@@ -16,7 +16,7 @@ She is a desktop app with a chat-first interface and an avatar she can inhabit, 
 - **Custom-trained models:** her personality and knowledge are trained into the model itself
 - **Chat** with a locally hosted large language model, streamed live
 - **Voice** out (text-to-speech) and in (speech-to-text, wake word), with lip-sync on the avatar
-- **3D avatar** rendered with a custom OpenGL renderer: outfits, blendshapes, rig, and an overlay mode that lets her sit on the desktop
+- **3D avatar** rendered with a custom OpenGL renderer: outfits, blendshapes, rig, with dynamic, selectable mp4 backgrounds and an transperent overlay mode that lets her sit on the desktop
 - **Long-term memory** in a vector database, plus a diary and "quiet time" reflection
 - **Senses:** she can look at the screen or a webcam, listen to music, search the web, and read calendar and mail
 - **A "body":** system telemetry (VRAM, RAM, CPU, temperatures, network) becomes how she feels, so warnings come in her voice
